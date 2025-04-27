@@ -16,7 +16,17 @@ This project leverages deep learning techniques to detect a person's age and gen
 
 - app.py → Streamlit app for user interaction.
 - age_gender_identification.ipynb → Script for model training and evaluation.
-- requirements.txt → List of project dependencies.
+- requirements.txt → List of project dependencies.**
+
+**📌 Model & Optimization**
+
+Although this is a foundational model, there are opportunities to optimize and enhance it:
+- Upgrade the CNN architecture for improved accuracy.
+- Use data augmentation to enrich dataset quality.
+- Fine-tune the model through transfer learning.
+
+
+
 
 
 
