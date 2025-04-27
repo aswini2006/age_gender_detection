@@ -25,6 +25,11 @@ Although this is a foundational model, there are opportunities to optimize and e
 - Use data augmentation to enrich dataset quality.
 - Fine-tune the model through transfer learning.
 
+**🤝 Contributions**
+
+Contributions are welcome! Feel free to fork, improve, and submit your changes.
+
+
 
 
 
