@@ -15,7 +15,7 @@ This project leverages deep learning techniques to detect a person's age and gen
 **📂 Project Structure**
 
 - app.py → Streamlit app for user interaction.
-- age_gender_identification.ipynb → Script for model training and evaluation.
+- age-gender-identification.ipynb → Script for model training and evaluation.
 - requirements.txt → List of project dependencies.**
 
 **📌 Model & Optimization**
